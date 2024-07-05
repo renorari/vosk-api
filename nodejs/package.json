@@ -1,5 +1,5 @@
 {
-  "name": "vosk",
+  "name": "@renorari/vosk",
   "version": "0.4.0",
   "description": "Node binding for continuous offline voice recoginition with Vosk library.",
   "repository": {
